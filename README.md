@@ -1,1 +1,3 @@
 # sql-challenge
+
+# In this week's challenge, I had used QuickDBD to help create my ERD. From here, I had also imported my table schematas generated for the ERD into pgAdmin to work on them. I had some trouble working with Date datatype as I do not recall using this datatype in class, so I needed to look up the correct functions used ('EXTRACT' and 'YEAR FROM') in order to filter by the year for the query regarding employees hired in 1986.
